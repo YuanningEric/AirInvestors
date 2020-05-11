@@ -6,10 +6,10 @@ AirInvestors is a web-based decision support system that helps property investor
 <img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Mainpage.gif" height = "350" width = "600"/>
 
 * Predicted rental price
-<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Predicted_rental_price.gif" height = "400" width = "600"/>
+<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Predicted_rental_price.gif" height = "350" width = "600"/>
 
 * Heat maps
-<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Heatmaps.png" height = "400" width = "600"/>
+<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Heatmaps.png" height = "350" width = "600"/>
 
 ## Product
 We offer both online and local accesses to our product.
