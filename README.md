@@ -16,12 +16,12 @@ We offer both online and local accesses to our product.
 
 1. **Online access**
 To use AirInvestors, you can go to
-![https://online.tableau.com/] (https://online.tableau.com/)<br />
-**Username**: airinvestors.demo1@gmail.com <br />         
+[https://online.tableau.com/](https://online.tableau.com/)<br />
+**Username**: airinvestors.demo1@gmail.com <br />        
 **Password**: cse6242!
 
 2. **Local access**
-Install [Tableau Desktop] (https://www.tableau.com/products/desktop) on your computer.
+Install [Tableau Desktop](https://www.tableau.com/products/desktop) on your computer.
 Download *AirInvestors 20200419.twbx* from ./Tableau/ in this directory.
 
 
