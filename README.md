@@ -3,7 +3,7 @@ AirInvestors is a web-based decision support system that helps property investor
 
 ## Demo
 * Main page
-<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Mainpage.gif" height = "400" width = "600"/>
+<img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Mainpage.gif" height = "350" width = "600"/>
 
 * Predicted rental price
 <img src="https://github.com/YuanningEric/AirInvestors/blob/master/GIFs/Predicted_rental_price.gif" height = "400" width = "600"/>
