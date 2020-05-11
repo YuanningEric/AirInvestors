@@ -35,11 +35,18 @@ The project consists of the following functional units:
 
 
 ## Directory
-Merge_Mashvisor_InsiderAirbnb.R is in the Data Preprocessing directory;
-Predictive_ Model.R is in the Econometrics Model directory;
-BERT_AIRBNB_cla.ipynb, BERT_AIRBNB_reg.ipynb, data_preprocessing_Airbnb.ipynb, data_preprocessing_Mashvisor.ipynb, test_get_data.py, word_cloud_visulization.ipynb are in the NLP folder.
+
+* Data_Preprocessing
+Merge_Mashvisor_InsiderAirbnb.R preprocesses the data from Mashvisor and InsiderAirbnb.
+
+* Econometrics_Model
+Predictive_ Model.R established an OLS model to predict the listing prices of properties in Airbnb,
+
+* NLP
+Contains codes that use house description to predict rental price income. See sections below.
 
 
+## Installation
 Downloading Mashvisor data:
 * curl --location --request GET "https://api.mashvisor.com/v1.1/client/property?id=[YOUR_QUERYED_ID]&state=TX" --header "x-api-key: [YOUR_API_KEY]
 
